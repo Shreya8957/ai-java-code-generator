@@ -1,0 +1,1 @@
+Write a method in Java that returns the factorial of a number using recursion.
